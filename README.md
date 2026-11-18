@@ -1,8 +1,7 @@
 # pyspark-learning
 Big Data Engineering with PySpark and Apache Spark. Hands-on notebooks covering DataFrames, transformations, actions, Spark SQL, joins, aggregations, and ETL pipelines.
-# PySpark Learning 🚀
 
-Welcome to my PySpark Learning Repository!
+# Welcome to my PySpark Learning Repository!
 
 This repository contains hands-on practice, Jupyter Notebooks, and examples covering **Apache Spark and PySpark** for Big Data Engineering. It documents my learning journey and practical implementation of distributed data processing using Python.
 
