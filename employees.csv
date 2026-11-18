@@ -1,0 +1,16 @@
+employee_id,name,age,gender,department,city,salary,experience,joining_date
+1,Shridhar,29,Male,AI,Pune,85000,5,2021-01-15
+2,Amit,32,Male,Data Engineering,Mumbai,95000,8,2018-06-10
+3,Neha,27,Female,Data Science,Pune,78000,4,2022-03-20
+4,Priya,30,Female,AI,Bangalore,88000,6,2020-07-11
+5,Rahul,35,Male,MLOps,Delhi,105000,10,2016-09-01
+6,Sneha,26,Female,Data Science,Hyderabad,72000,3,2023-01-01
+7,Karan,31,Male,AI,Pune,91000,7,2019-04-05
+8,Anjali,28,Female,MLOps,Mumbai,83000,4,2021-08-18
+9,Vikas,34,Male,Data Engineering,Delhi,99000,9,2017-02-14
+10,Pooja,25,Female,AI,Bangalore,70000,2,2024-01-05
+11,Arjun,29,Male,Data Science,Pune,81000,5,2020-11-21
+12,Kavya,33,Female,MLOps,Hyderabad,102000,8,2018-12-30
+13,Rohan,27,Male,AI,Mumbai,76000,3,2022-06-01
+14,Meera,31,Female,Data Engineering,Pune,94000,7,2019-09-12
+15,Sahil,36,Male,MLOps,Bangalore,110000,11,2015-04-08
